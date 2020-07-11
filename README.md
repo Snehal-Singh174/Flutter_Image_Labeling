@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ## Output:
 
 ![](output1.png)
+
+## Just follow☝️ me and Star⭐ my repository
